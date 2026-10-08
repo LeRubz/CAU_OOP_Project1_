@@ -1,6 +1,3 @@
-# ==========================================
-# Dossiers de compilation et binaires
-# ==========================================
 Debug/
 Release/
 x64/
@@ -18,22 +15,15 @@ x86/
 *.lastcodeanalysissucceeded
 *.log
 
-# ==========================================
-# Dossiers cach�s et m�tadonn�es Visual Studio
-# ==========================================
+
 .vs/
 .vscode/
 
-# ==========================================
-# Fichiers de pr�f�rences et d'�tat utilisateur
-# ==========================================
+
 *.user
 *.suo
 *.userosscache
 *.sln.docstates
 
-# ==========================================
-# Fichiers temporaires syst�me
-# ==========================================
 .DS_Store
 Thumbs.db
